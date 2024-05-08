@@ -1,2 +1,9 @@
-# go-sql
-Go MySQL, PostgreSQL, Gorm Libraries 
+# Go and SQL
+
+## MySQL
+
+- `go mod init gomysql`
+
+## PostgreSQL
+
+## GORM Implementation
